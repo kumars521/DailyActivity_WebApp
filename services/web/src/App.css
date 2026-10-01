@@ -1,0 +1,18 @@
+a {
+  text-decoration: none;
+}
+
+.MuiButton-root {
+  border-radius: 12px;
+}
+
+.MuiCard-root {
+  border-radius: 18px;
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  box-shadow: 0 14px 32px rgba(15, 23, 42, 0.08);
+}
+
+.MuiTableCell-head {
+  font-weight: 700;
+  color: #0f172a;
+}
